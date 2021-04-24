@@ -1,1 +1,1 @@
-# PaceWisdom
+# DBMS-MINI-PROJECT
